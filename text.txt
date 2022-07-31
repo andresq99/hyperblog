@@ -3,3 +3,8 @@ Nombre: Andres Quelal
 
 Edad:23 años
 Fecha:11 de Julio de 1999
+
+Carrera: TICS
+Semestre: 8vo Semestre
+
+
